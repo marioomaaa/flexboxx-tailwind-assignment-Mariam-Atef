@@ -1,0 +1,28 @@
+
+.bg-white.p-4.rounded.shadow-md {
+    height: 550px;
+}
+.w-full h-40 object-cover mb-2{
+    height:300px;
+}
+img.w-full.h-40.object-cover.mb-2 {
+    height: 400px;
+}
+.header.bg-blue-600.text-white.py-4 {
+    background-color: #610C9F;
+}
+header.bg-blue-600.text-white.py-4 {
+    background-color: #610C9F;
+    height: 100px;
+}
+footer.bg-blue-600.text-white.text-center.py-4 {
+    background-color: #610C9F;
+}
+button.bg-blue-600.text-white.px-4.py-2.rounded.hover\:bg-blue-700 {
+    background-color: #610C9F;
+}
+img.w-32.h-32.rounded-full.object-cover.mt-4 {
+    height: 250px;
+    width: 300px;
+    margin-left: 600px;
+}
